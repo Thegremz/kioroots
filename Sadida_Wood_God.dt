@@ -1,0 +1,11 @@
+<theme>
+    <name>Sadida_Wood_God</name>
+    <skinType>1</skinType>
+    <description>Thème basé sur la classe Sadida via des matières de type bois/plante. Avec dessin des Dieux (un pour l'instant).</description>
+    <previewUri>Sadida_Wood_God_Preview.jpg</previewUri>
+	<author>Parkour Black</author>
+	<version>1.0.3</version>
+	<dofusVersion>2.37</dofusVersion> 
+    <creationDate>17/10/2016</creationDate> 
+    <modificationDate>26/10/2016</modificationDate> 
+</theme>
